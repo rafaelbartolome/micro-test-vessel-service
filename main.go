@@ -8,7 +8,7 @@ import (
 	"os"
 
 	"github.com/micro/go-micro"
-	pb "github.com/rafaelbartolome/micro-test/vessel-service/proto/vessel"
+	pb "github.com/rafaelbartolome/micro-test-vessel-service/proto/vessel"
 )
 
 const (
