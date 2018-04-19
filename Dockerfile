@@ -16,4 +16,4 @@ RUN mkdir /app
 WORKDIR /app
 COPY --from=builder /go/src/github.com/rafaelbartolome/micro-test-vessel-service .
 
-CMD ["./vessel-service"]
+CMD ["./micro-test-vessel-service"]
